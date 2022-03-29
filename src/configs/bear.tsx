@@ -72,7 +72,7 @@ const bear: BearData[] = [
         title: "Skripsi 2022",
         file: "h",
         icon: <RiGamepadLine />,
-        excerpt: "My Skripsi SPK MENENTUKAN KELAYAKAN PESTISIDA METODE TOPSIS DAN MAUT...",
+        excerpt: "SPK MENENTUKAN KELAYAKAN PESTISIDA METODE TOPSIS DAN MAUT...",
         link: "https"
       },
       {
