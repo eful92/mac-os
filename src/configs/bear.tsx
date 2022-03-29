@@ -47,113 +47,41 @@ const bear: BearData[] = [
     ]
   },
   {
-    id: "project",
+    id: "project 2021-2022",
     title: "Projects",
     icon: <GoRepo />,
     md: [
       {
-        id: "flint",
-        title: "Flint",
-        file: "https://raw.githubusercontent.com/Renovamen/flint/main/README.md",
+        id: "Magang 2021",
+        title: "Magang 2021",
+        file: "",
         icon: <HiFire />,
-        excerpt: "A deep learning framework implemented in Numpy...",
-        link: "https://github.com/Renovamen/flint"
+        excerpt: "PBB TANAH BARU...",
+        link: "h"
       },
       {
-        id: "metallic",
-        title: "Metallic",
-        file: "https://raw.githubusercontent.com/Renovamen/metallic/master/README.md",
+        id: "Web Lanjut",
+        title: "Web Lanjut",
+        file: "h",
         icon: <GiJumpingDog />,
-        excerpt: "A meta-learning library base on PyTorch...",
-        link: "https://github.com/Renovamen/metallic"
+        excerpt: "DATA PENUDUK DESA TELUKJAYA...",
+        link: "h"
       },
       {
-        id: "portfolio-macos",
-        title: "Portfolio macOS",
-        file: "https://raw.githubusercontent.com/Renovamen/playground-macos/main/README.md",
+        id: "Skripsi 2022",
+        title: "Skripsi 2022",
+        file: "h",
         icon: <RiGamepadLine />,
-        excerpt: "My portfolio website simulating macOS's GUI...",
-        link: "https://github.com/Renovamen/playground-macos"
+        excerpt: "My Skripsi SPK MENENTUKAN KELAYAKAN PESTISIDA METODE TOPSIS DAN MAUT...",
+        link: "https"
       },
       {
-        id: "oh-vue-icons",
-        title: "Oh, Vue Icons!",
-        file: "https://raw.githubusercontent.com/Renovamen/oh-vue-icons/master/README.md",
-        icon: <FaVuejs />,
-        excerpt: "Importing icons from different icon packs in Vue easily...",
-        link: "https://oh-vue-icons.netlify.app"
-      },
-      {
-        id: "gungnir",
-        title: "Gungnir",
-        file: "https://raw.githubusercontent.com/Renovamen/vuepress-theme-gungnir/main/README.md",
-        icon: <GiEnergySword />,
-        excerpt: "A simple and beautiful blog theme for VuePress...",
-        link: "https://vuepress-theme-gungnir.vercel.app"
-      },
-      {
-        id: "midgard",
-        title: "Interactable Resume",
-        file: "https://raw.githubusercontent.com/Renovamen/midgard/master/README.md",
-        icon: <BiGame />,
-        excerpt: "An interactable version of my resume, powered by Vue...",
-        link: "https://resume.zxh.io/"
-      },
-      {
-        id: "text-classification",
-        title: "Text Classification",
-        file: "https://raw.githubusercontent.com/Renovamen/Text-Classification/master/README.md",
-        icon: <CgFormatText />,
-        excerpt: "PyTorch implementation of text classificaiton models...",
-        link: "https://github.com/Renovamen/Text-Classification"
-      },
-      {
-        id: "speech-emotion-recognition",
-        title: "Speech Emotion",
-        file: "https://raw.githubusercontent.com/Renovamen/Speech-Emotion-Recognition/master/README.md",
-        icon: <AiFillAudio />,
-        excerpt: "Speech emotion recognition using Keras and sklearn...",
-        link: "https://github.com/Renovamen/Speech-Emotion-Recognition"
-      },
-      {
-        id: "image-captioning",
-        title: "Image Captioning",
-        file: "https://raw.githubusercontent.com/Renovamen/Image-Captioning/master/README.md",
-        icon: <BsFillImageFill />,
-        excerpt: "PyTorch implementation of image captioning models...",
-        link: "https://github.com/Renovamen/Image-Captioning"
-      },
-      {
-        id: "wordle-helper",
-        title: "Wordle Helper",
-        file: "https://raw.githubusercontent.com/Renovamen/wordle-helper/main/README.md",
-        icon: <BsGrid1X2 />,
-        excerpt: "Help you solve Wordle puzzles...",
-        link: "https://wordle.zxh.io"
-      },
-      {
-        id: "cube-solver",
-        title: "Cube Solver",
-        file: "https://raw.githubusercontent.com/Renovamen/Just-a-Cube/master/README.md",
-        icon: <BiCube />,
-        excerpt: "A rubik's cube solver (layer-by-layer & two-phase)...",
-        link: "https://cube.zxh.io"
-      },
-      {
-        id: "alkaid",
-        title: "Alkaid",
-        file: "https://raw.githubusercontent.com/Renovamen/alkaid/main/README.md",
-        icon: <GiCat />,
-        excerpt: "Minimal reinforcement-learning toolbox for PyTorch...",
-        link: "https://github.com/Renovamen/alkaid"
-      },
-      {
-        id: "fishmail",
-        title: "Fishmail",
-        file: "https://raw.githubusercontent.com/Renovamen/Fishmail/master/README.md",
+        id: "Project 2022",
+        title: "Project 2022",
+        file: "https:",
         icon: <GiFishEscape />,
-        excerpt: "上班的时候装作在 Gmail 上查邮件的样子看知乎摸鱼...",
-        link: "https://fishmail.vercel.app"
+        excerpt: "Next...",
+        link: "ht"
       }
     ]
   }
