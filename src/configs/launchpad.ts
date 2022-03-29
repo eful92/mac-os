@@ -27,13 +27,13 @@ const launchpadApps: LaunchpadData[] = [
   },
   {
     id: "Data Skripsi 2022",
-    title: "Webpage for Zelda",
+    title: "Data Skripsi 2022",
     img: "img/icons/launchpad/zelda.png",
     link: ""
   },
   {
     id: "My Project 2022",
-    title: "Fishmail",
+    title: "My Project 2022",
     img: "img/icons/launchpad/fishmail.png",
     link: ""
   }
