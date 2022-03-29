@@ -34,8 +34,8 @@ const launchpadApps: LaunchpadData[] = [
   {
     id: "My Project 2022",
     title: "My Project 2022",
-    img: "img/icons/launchpad/fishmail.png",
-    link: ""
+    img: "img/avatar.jpg",
+    link: "https://nervous-allen-8eda03.netlify.app/"
   }
 ];
 
