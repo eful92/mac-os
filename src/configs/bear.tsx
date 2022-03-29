@@ -48,7 +48,7 @@ const bear: BearData[] = [
   },
   {
     id: "project 2021-2022",
-    title: "Projects",
+    title: "Projects 2021-2022",
     icon: <GoRepo />,
     md: [
       {
@@ -57,7 +57,7 @@ const bear: BearData[] = [
         file: "",
         icon: <HiFire />,
         excerpt: "PBB TANAH BARU...",
-        link: "h"
+        link: "https://nervous-allen-8eda03.netlify.app/"
       },
       {
         id: "Web Lanjut",
@@ -65,7 +65,7 @@ const bear: BearData[] = [
         file: "h",
         icon: <GiJumpingDog />,
         excerpt: "DATA PENUDUK DESA TELUKJAYA...",
-        link: "h"
+        link: "https://nervous-allen-8eda03.netlify.app/"
       },
       {
         id: "Skripsi 2022",
@@ -81,7 +81,7 @@ const bear: BearData[] = [
         file: "https:",
         icon: <GiFishEscape />,
         excerpt: "Next...",
-        link: "ht"
+        link: "https://syflyusf.netlify.app/"
       }
     ]
   }
