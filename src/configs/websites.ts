@@ -8,38 +8,38 @@ const websites: WebsitesData = {
         id: "my-blog",
         title: "Blog",
         img: "https://zxh.io/img/avatar.jpg",
-        link: "https://zxh.io/",
+        link: "https:",
         inner: true
       },
       {
         id: "my-github",
         title: "Github",
         img: "img/sites/github.svg",
-        link: "https://github.com/Renovamen"
+        link: ""
       },
       {
         id: "my-linkedin",
         title: "Linkedin",
         img: "img/sites/linkedin.svg",
-        link: "https://www.linkedin.com/in/xiaohan-zou"
+        link: "https"
       },
       {
-        id: "my-zhihu",
-        title: "知乎",
-        img: "img/sites/zhihu.jpeg",
-        link: "https://www.zhihu.com/people/chao-neng-gui-su"
+        id: "my eful",
+        title: "eful",
+        img: "img/avatar.jpg",
+        link: "https"
       },
       {
         id: "my-facebook",
         title: "Facebook",
-        img: "img/sites/facebook.svg",
-        link: "https://www.facebook.com/renovamen.zou"
+        img: "img/avatar.jpg",
+        link: "https://www.facebook.com"
       },
       {
         id: "my-email",
         title: "Email",
         img: "img/sites/gmail.svg",
-        link: "mailto:renovamenzxh@gmail.com"
+        link: "mailto:syaifulyusuf612@gmail.com"
       }
     ]
   },
@@ -53,10 +53,10 @@ const websites: WebsitesData = {
         link: "https://github.com/"
       },
       {
-        id: "zhihu",
-        title: "知乎",
-        img: "img/sites/zhihu.jpeg",
-        link: "https://www.zhihu.com/"
+        id: "my eful",
+        title: "eful",
+        img: "img/avatar.jpg",
+        link: "https://"
       },
       {
         id: "bilibili",
