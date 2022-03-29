@@ -13,14 +13,11 @@ const terminal: TerminalData[] = [
         content: (
           <div className="py-1">
             <div>
-              Hi! This is Xiaohan Zou, now a Computer Science master's student
-              at Boston University and a machine learning engineer intern at
-              Kuaishou (Kwai). I'm also working as a research assistant at
-              Peking University.
+              Hi! This is syaiful yusuf.
             </div>
             <div className="mt-1">
               Before that, I got my bachelor's degree in Software Engineering at
-              Tongji University.
+              Ambyar University.
             </div>
           </div>
         )
@@ -49,64 +46,64 @@ const terminal: TerminalData[] = [
               Email:{" "}
               <a
                 className="text-blue-300"
-                href="mailto:renovamenzxh@gmail.com"
+                href="mailto:syaifulyusuf612@gmail.com"
                 target="_blank"
                 rel="noreferrer"
               >
-                renovamenzxh@gmail.com
+                syaifulyusuf612@gmail.com
               </a>{" "}
               /{" "}
               <a
                 className="text-blue-300"
-                href="mailto:xiaohan.zou@foxmail.com"
+                href="mailto:syaifulyusuf612@gmail.com"
                 target="_blank"
                 rel="noreferrer"
               >
-                xiaohan.zou@foxmail.com
+                syaifulyusuf612@gmail.com
               </a>
             </li>
             <li>
               Github:{" "}
               <a
                 className="text-blue-300"
-                href="https://github.com/Renovamen"
+                href="https://github.com/eful92"
                 target="_blank"
                 rel="noreferrer"
               >
-                https://github.com/Renovamen
+                https://github.com/eful92
               </a>
             </li>
             <li>
               Linkedin:{" "}
               <a
                 className="text-blue-300"
-                href="https://www.linkedin.com/in/xiaohan-zou"
+                href="https://www.linkedin.com"
                 target="_blank"
                 rel="noreferrer"
               >
-                https://www.linkedin.com/in/xiaohan-zou
+                https://www.linkedin.com
               </a>
             </li>
             <li>
               Blog:{" "}
               <a
                 className="text-blue-300"
-                href="https://zxh.io"
+                href="h"
                 target="_blank"
                 rel="noreferrer"
               >
-                https://zxh.io
+                https:
               </a>
             </li>
             <li>
               知乎:{" "}
               <a
                 className="text-blue-300"
-                href="https://www.zhihu.com/people/chao-neng-gui-su"
+                href="https://www"
                 target="_blank"
                 rel="noreferrer"
               >
-                https://www.zhihu.com/people/chao-neng-gui-su
+                https://www.z
               </a>
             </li>
           </ul>
