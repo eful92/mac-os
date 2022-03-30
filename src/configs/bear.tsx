@@ -28,21 +28,21 @@ const bear: BearData[] = [
         title: "About Me",
         file: "markdown/about-me.md",
         icon: <GiNinjaHeroicStance />,
-        excerpt: "Hey there! I'm a dragon lost in human world..."
+        excerpt: "Nothing Special..."
       },
       {
         id: "github-stats",
         title: "Github Stats",
         file: "markdown/github-stats.md",
         icon: <VscGithub />,
-        excerpt: "Here are some status about my github account..."
+        excerpt: "Nothing Special..."
       },
       {
         id: "about-site",
         title: "About This Site",
         file: "markdown/about-site.md",
         icon: <GoBrowser />,
-        excerpt: "Something about this personal portfolio site..."
+        excerpt: "Nothing Special..."
       }
     ]
   },
@@ -54,7 +54,7 @@ const bear: BearData[] = [
       {
         id: "Magang 2021",
         title: "Magang 2021",
-        file: "",
+        file: "markdown/about-me.md",
         icon: <HiFire />,
         excerpt: "PBB TANAH BARU...",
         link: "https://nervous-allen-8eda03.netlify.app/"
@@ -62,7 +62,7 @@ const bear: BearData[] = [
       {
         id: "Web Lanjut",
         title: "Web Lanjut",
-        file: "h",
+        file: "markdown/about-me.md",
         icon: <GiJumpingDog />,
         excerpt: "DATA PENUDUK DESA TELUKJAYA...",
         link: "https://nervous-allen-8eda03.netlify.app/"
@@ -70,7 +70,7 @@ const bear: BearData[] = [
       {
         id: "Skripsi 2022",
         title: "Skripsi 2022",
-        file: "h",
+        file: "markdown/about-me.md",
         icon: <RiGamepadLine />,
         excerpt: "SPK MENENTUKAN KELAYAKAN PESTISIDA METODE TOPSIS DAN MAUT...",
         link: "https"
@@ -78,7 +78,7 @@ const bear: BearData[] = [
       {
         id: "Project 2022",
         title: "Project 2022",
-        file: "https:",
+        file: "markdown/about-me.md",
         icon: <GiFishEscape />,
         excerpt: "Next...",
         link: "https://syflyusf.netlify.app/"
