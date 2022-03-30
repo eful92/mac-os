@@ -78,7 +78,7 @@ const bear: BearData[] = [
       {
         id: "Project 2022",
         title: "Project 2022",
-        file: "markdown/Project-me.md",
+        file: "markdown/project-me.md",
         icon: <GiFishEscape />,
         excerpt: "Next...",
         link: "https://syflyusf.netlify.app/"
