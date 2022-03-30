@@ -64,7 +64,7 @@ const apps: AppsData[] = [
     title: "Mail",
     desktop: false,
     img: "img/icons/mail.png",
-    link: "syaifulyusuf612@gmail.com"
+    link: "https://gamail.com/syaifulyusuf612@gmail.com"
   },
   {
     id: "github",
