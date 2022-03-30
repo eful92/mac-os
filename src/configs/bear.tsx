@@ -54,7 +54,7 @@ const bear: BearData[] = [
       {
         id: "Magang 2021",
         title: "Magang 2021",
-        file: "markdown/about-me.md",
+        file: "markdown/magang-me.md",
         icon: <HiFire />,
         excerpt: "PBB TANAH BARU...",
         link: "https://nervous-allen-8eda03.netlify.app/"
@@ -70,7 +70,7 @@ const bear: BearData[] = [
       {
         id: "Skripsi 2022",
         title: "Skripsi 2022",
-        file: "markdown/about-me.md",
+        file: "markdown/magang-me.md",
         icon: <RiGamepadLine />,
         excerpt: "SPK MENENTUKAN KELAYAKAN PESTISIDA METODE TOPSIS DAN MAUT...",
         link: "https"
