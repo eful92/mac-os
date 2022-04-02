@@ -18,14 +18,14 @@ Recommended Books
 * 《Professional JavaScript for Web Developers 4th Edition》
 ### React & Vue Ecosystem  
 
-![React & Vue Ecosystem](./img/ReactVueEcosystem.svg)
+![React & Vue Ecosystem](../img/ReactVueEcosystem.svg)
 
 Recommended Project
 
 * [bestofjs](https://bestofjs.org/)
 ### High Quality Coding Guide
 
-![CodingGuide](./img/HighQualityCodingGuide.svg)
+![CodingGuide](../img/HighQualityCodingGuide.svg)
 
 Recommended Books
 
@@ -35,7 +35,7 @@ Recommended Books
 
 ### Data Structures & Algorithms Guide
 
-![Data Structures & Algorithms](./img/DataStructuresAlgorithmsGuide.svg)
+![Data Structures & Algorithms](../img/DataStructuresAlgorithmsGuide.svg)
 
 Recommended Books
 
