@@ -71,7 +71,7 @@ const apps: AppsData[] = [
     {
         id: "spotify",
         title: "Spotify",
-        icon: './img/spotify.png',
+        img: "/img/icons/spotify.png",
         disabled: false,
         favourite: true,
         desktop_shortcut: false,
