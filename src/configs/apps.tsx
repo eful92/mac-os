@@ -3,7 +3,7 @@ import Terminal from "../components/apps/Terminal";
 import Safari from "../components/apps/Safari";
 import Bear from "../components/apps/Bear";
 import VSCode from "../components/apps/VSCode";
-import displaySpotify from "../components/apps/spotify";
+
 
 import type { AppsData } from "../types";
 
@@ -68,15 +68,6 @@ const apps: AppsData[] = [
     link: "https://gamail.com/syaifulyusuf612@gmail.com"
   },
 
-    {
-        id: "spotify",
-        title: "Spotify",
-        img: "/img/icons/spotify.png",
-        disabled: false,
-        favourite: true,
-        desktop_shortcut: false,
-        screen: displaySpotify, // India Top 50 Playlist 😅
-    },
   {
     id: "github",
     title: "Github",
