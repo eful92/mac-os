@@ -45,7 +45,7 @@ const bear: BearData[] = [
         excerpt: "Nothing Special..."
       },
 
-  },
+ ]
   {
     id: "project 2021-2022",
     title: "Projects 2021-2022",
