@@ -11,21 +11,21 @@
 This list will continue to update… 
 ### Front-End Developer Roadmap
 
-![Front-End Developer Roadmap](./public/img/FrontEndDeveloperRoadmap.svg)
+![Front-End Developer Roadmap](../public/img/FrontEndDeveloperRoadmap.svg)
 
 Recommended Books
 
 * 《Professional JavaScript for Web Developers 4th Edition》
 ### React & Vue Ecosystem  
 
-![React & Vue Ecosystem](./public/img/ReactVueEcosystem.svg)
+![React & Vue Ecosystem](../public/img/ReactVueEcosystem.svg)
 
 Recommended Project
 
 * [bestofjs](https://bestofjs.org/)
 ### High Quality Coding Guide
 
-![CodingGuide](.public/img/HighQualityCodingGuide.svg)
+![CodingGuide](../public/img/HighQualityCodingGuide.svg)
 
 Recommended Books
 
@@ -35,7 +35,7 @@ Recommended Books
 
 ### Data Structures & Algorithms Guide
 
-![Data Structures & Algorithms](./public/img/DataStructuresAlgorithmsGuide.svg)
+![Data Structures & Algorithms](../public/img/DataStructuresAlgorithmsGuide.svg)
 
 Recommended Books
 
