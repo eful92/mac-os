@@ -38,20 +38,12 @@ const bear: BearData[] = [
         excerpt: "Nothing Special..."
       },
       {
-        id: "about-site",
+        id: "Road map",
         title: "About This Site",
         file: "markdown/about-site.md",
         icon: <GoBrowser />,
         excerpt: "Nothing Special..."
       },
-{
-        id: "Road-Map",
-        title: "Road Map",
-        file: "roadmap.md",
-        icon: <GoBrowser />,
-        excerpt: "Nothing Special..."
-      }
-    ]
 
   },
   {
