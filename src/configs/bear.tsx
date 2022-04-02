@@ -36,16 +36,10 @@ const bear: BearData[] = [
         file: "markdown/github-stats.md",
         icon: <VscGithub />,
         excerpt: "Nothing Special..."
+}
+]
       },
-      {
-        id: "Road map",
-        title: "About This Site",
-        file: "markdown/about-site.md",
-        icon: <GoBrowser />,
-        excerpt: "Nothing Special..."
-      },
-
- ]
+      
   {
     id: "project 2021-2022",
     title: "Projects 2021-2022",
@@ -74,6 +68,22 @@ const bear: BearData[] = [
         icon: <RiGamepadLine />,
         excerpt: "SPK MENENTUKAN KELAYAKAN PESTISIDA METODE TOPSIS DAN MAUT...",
         link: "https"
+      },
+{
+        id: "Dokumentasi",
+        title: "Cube Solver",
+        file: "",
+        icon: <BiCube />,
+        excerpt: "next...",
+        link: ""
+      },
+      {
+        id: "Galeri",
+        title: "Alkaid",
+        file: "",
+        icon: <GiCat />,
+        excerpt: "Minimal reinforcement-learning toolbox for PyTorch...",
+        link: ""
       },
       {
         id: "Project 2022",
