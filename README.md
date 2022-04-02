@@ -18,7 +18,7 @@ Recommended Books
 * 《Professional JavaScript for Web Developers 4th Edition》
 ### React & Vue Ecosystem  
 
-![React & Vue Ecosystem](./images/ReactVueEcosystem.svg)
+![React & Vue Ecosystem](.public/img/ReactVueEcosystem.svg)
 
 Recommended Project
 
