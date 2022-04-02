@@ -3,6 +3,7 @@ import Terminal from "../components/apps/Terminal";
 import Safari from "../components/apps/Safari";
 import Bear from "../components/apps/Bear";
 import VSCode from "../components/apps/VSCode";
+import displaySpotify from "../components/apps/spotify";
 
 import type { AppsData } from "../types";
 
@@ -70,7 +71,7 @@ const apps: AppsData[] = [
     {
         id: "spotify",
         title: "Spotify",
-        icon: './themes/Yaru/apps/spotify.png',
+        icon: './img/spotify.png',
         disabled: false,
         favourite: true,
         desktop_shortcut: false,
