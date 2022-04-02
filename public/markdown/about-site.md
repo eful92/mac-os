@@ -11,7 +11,7 @@
 This list will continue to update… 
 ### Front-End Developer Roadmap
 
-![Front-End Developer Roadmap](./img/FrontEndDeveloperRoadmap.svg)
+![Front-End Developer Roadmap](../img/FrontEndDeveloperRoadmap.svg)
 
 Recommended Books
 
