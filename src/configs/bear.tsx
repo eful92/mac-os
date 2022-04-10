@@ -61,32 +61,32 @@ const bear: BearData[] = [
         link: "https://nervous-allen-8eda03.netlify.app/"
       },
       {
-        id: "SPK WP",
-        title: "Web Lanjut",
+        id: "DSS WP FRAMEWORK",
+        title: "DSS WP FRAMEWORK",
         file: "markdown/web-me.md",
         icon: <GiJumpingDog />,
-        excerpt: "Skripsi Putri 2022..",
+        excerpt: "Skripsi 2022..",
         link: "https://nervous-allen-8eda03.netlify.app/"
       },
       {
-        id: "SPK MAUT TOPSIS",
-        title: "Skripsi Me 2022",
+        id: "DSS MAUT TOPSIS OOP",
+        title: "DSS MAUT TOPSIS OOP",
         file: "markdown/skripsi-me.md",
         icon: <RiGamepadLine />,
         excerpt: "SPK TOPSIS DAN MAUT...",
         link: "https"
       },
 {
-        id: "File Kuliah",
-        title: "File Kuliah",
+        id: "DSS SMART OOP",
+        title: "DSS SMART OOP",
         file: "markdown/kuliah-me.md",
         icon: <BiCube />,
         excerpt: "next...",
         link: ""
       },
       {
-        id: "Galeri",
-        title: "Galeri",
+        id: "DSS SAW OOP",
+        title: "DSS SAW OOP",
         file: "markdown/galeri-me.md",
         icon: <GiCat />,
         excerpt: "..",
