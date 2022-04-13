@@ -31,11 +31,12 @@ const bear: BearData[] = [
         excerpt: "Nothing Special..."
       },
       {
-        id: "github-stats",
-        title: "Github Stats",
+        id: "JOKI SKRIPSI",
+        title: "JOKI SKRIPSI",
         file: "markdown/github-stats.md",
         icon: <VscGithub />,
-        excerpt: "Nothing Special..."
+        excerpt: "JOKI SKRIPSI ALL JURUSAN"
+link: "https://api.whatsapp.com/send?phone=6281290836967"
 },
 {
         id: "Road-Map",
