@@ -36,7 +36,7 @@ const bear: BearData[] = [
         file: "markdown/github-stats.md",
         icon: <VscGithub />,
         excerpt: "JOKI SKRIPSI ALL JURUSAN"
-link: "https://api.whatsapp.com/send?phone=6281290836967"
+
 },
 {
         id: "Road-Map",
@@ -75,7 +75,7 @@ link: "https://api.whatsapp.com/send?phone=6281290836967"
         file: "markdown/skripsi-me.md",
         icon: <RiGamepadLine />,
         excerpt: "SPK TOPSIS DAN MAUT...",
-        link: "https"
+        link: "https://api.whatsapp.com/send?phone=6281290836967"
       },
 {
         id: "DSS SMART OOP",
